@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27185828132",
+    "project_id": "protect-23759",
+    "storage_bucket": "protect-23759.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27185828132:android:1e5970ea2323f352d9e3b1",
+        "android_client_info": {
+          "package_name": "yuliu.protectme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27185828132-4k5fih8v9n3vjg2dnokkddhbp7ihurcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_y73mdbch_WpbohMWSXkxpTyvNAqhudI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27185828132-4k5fih8v9n3vjg2dnokkddhbp7ihurcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
